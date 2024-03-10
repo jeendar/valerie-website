@@ -1,10 +1,10 @@
 ---
-title: "Blüten am Waldrand"
-description: "Gemälde 'Blüten am Waldrand' von Bärbel Köller."
-coverImage: ./DSC02298.jpeg
-type: "Pastell"
+title: "Edith Abby"
+description: "Edith Abby from Edith Piaf project"
+coverImage: ./EdithAbby.jpg
+type: "Edith Piaf"
 ---
 
 | Technik                     | Maße      | Preis |
 |-----------------------------|-----------|-------|
-| Pastell auf Papier          | 29x21cm   | 220€  |
+| Digital Photography         | 29x21cm   | 220€  |
